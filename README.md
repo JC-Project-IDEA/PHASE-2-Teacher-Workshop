@@ -3,18 +3,18 @@
 <p align="center"> Phase 2: Teacher Workshop </p>
 <p align="center">👨‍🏫 Lazarus Chan </p>
 
-## 工作坊內容簡介：
+## 🎨 工作坊內容簡介：
 賽馬會科藝共融計劃（Jockey Club Project IDEA）由香港賽馬會慈善信託基金捐助、香港城市大學推行，旨在提升本地中學教師及學生對藝術科技的認識和能力，透過工作坊讓他們掌握如何應用數碼科技進行藝術創作，為傳統創作方式注入新元素，創造更多別樹一格的表現方式。同時，本計劃將透過分享和體驗活動提升學生對共融藝術的意識，啟發他們反思如何讓殘疾人士欣賞藝術及參與藝術活動，透過藝術科技建立共融的社會。
 
 
-## 學習資料下載：
+## 📖 學習資料下載：
 
 
 <li>
 <a href="https://github.com/JC-Project-IDEA/PHASE-2-Teacher-Workshop/blob/9cba2aec7268a09221582f708dd0a5390caabd1c/JC-IDEA%20(Teacher's%20Section)_compressed.pdf"> 第一天（4月30日） 課堂Slide  </a>
 </li>
 
-## DrawSound ｜電・紙樂器 – 用導電墨水將畫作變成電子樂器（觸感聲音互動畫作）  
+## 🎹 DrawSound ｜電・紙樂器 – 用導電墨水將畫作變成電子樂器（觸感聲音互動畫作）  
 
 
 由導師帶領同學學習不同 Software、Hardware的操作，配以觸感製作技術，將畫作變成觸感聲音互動裝置，從中學習到： 
