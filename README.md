@@ -34,6 +34,10 @@
 ## 相關連結
 1. 音頻檔案轉換 (.m4a to .mp3) https://cloudconvert.com/m4a-to-mp3
 
+2. Free Sound https://freesound.org/
+
+3. Sound Pocket Library https://www.thelibrarybysoundpocket.org.hk/
+
 
 
 
