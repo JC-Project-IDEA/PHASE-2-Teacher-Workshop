@@ -43,5 +43,11 @@ Password : CityUIDEA
 
 4. Internet Archive https://archive.org/details/opensource_audio
 
+5. Online Midi Editor https://signal.vercel.app/edit
 
+6. Online Synthesizer https://learningsynths.ableton.com/en/playground
+
+7. Online Bit Maker https://splice.com/sounds/beatmaker/026f92d3afda
+
+8. Dot Piano https://dotpiano.com/mEvKj97M0O0
 
