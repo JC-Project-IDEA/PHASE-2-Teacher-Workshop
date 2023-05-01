@@ -11,7 +11,7 @@
 
 
 <li>
-<a href="https://github.com/JC-Project-IDEA/PHASE-2-Teacher-Workshop/blob/9cba2aec7268a09221582f708dd0a5390caabd1c/JC-IDEA%20(Teacher's%20Section)_compressed.pdf"> 第一天（4月30日） 課堂Slide  </a>
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Teacher-Workshop/blob/9cba2aec7268a09221582f708dd0a5390caabd1c/JC-IDEA%20(Teacher's%20Section)_compressed.pdf"> 課堂Slide  </a>
 </li>
 
 ## 🎹 DrawSound ｜電・紙樂器 – 用導電墨水將畫作變成電子樂器（觸感聲音互動畫作）  
